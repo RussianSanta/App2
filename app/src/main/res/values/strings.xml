@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieFinder</string>
+    <string name="next_button_label">Далее</string>
+    <string name="back_button_label">Назад</string>
+</resources>
